@@ -1,0 +1,69 @@
+SAMPLE PRIVACY POLICY
+=====================
+
+Last Updated: January 2024
+
+1. INTRODUCTION
+
+This Privacy Policy describes how Example Company ("we," "us," or "our") collects, uses, and shares information about you when you use our services.
+
+2. INFORMATION WE COLLECT
+
+We collect information you provide directly to us, such as:
+- Account information (name, email address)
+- Profile information
+- Communications with us
+
+We also automatically collect certain information when you use our services:
+- Device information
+- Usage information
+- Location information (with your consent)
+
+3. HOW WE USE YOUR INFORMATION
+
+We use the information we collect to:
+- Provide, maintain, and improve our services
+- Process transactions
+- Send you technical notices and support messages
+- Communicate with you about products, services, and events
+
+4. SHARING OF INFORMATION
+
+We may share information about you in the following circumstances:
+- With vendors, consultants, and other service providers
+- In response to legal requests
+- To protect rights, property, and safety
+- In connection with business transfers
+
+5. DATA RETENTION
+
+We retain your information for as long as your account is active or as needed to provide services. We may retain certain information for longer periods for legitimate business purposes.
+
+6. YOUR CHOICES
+
+You may:
+- Update your account information
+- Opt out of certain communications
+- Request deletion of your account
+
+7. SECURITY
+
+We take reasonable measures to protect your information from loss, theft, misuse, and unauthorized access.
+
+8. INTERNATIONAL TRANSFERS
+
+Your information may be transferred to and processed in countries other than your own.
+
+9. CONTACT US
+
+If you have questions about this Privacy Policy, please contact us at privacy@example.com.
+
+---
+
+Note: This is a basic privacy policy template and may not be fully GDPR compliant. It's missing several key GDPR requirements such as:
+- Specific legal basis for processing
+- Detailed data subject rights
+- Data Protection Officer contact information
+- Explicit consent mechanisms
+- Data breach notification procedures
+- Privacy by design principles
