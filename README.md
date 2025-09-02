@@ -9,6 +9,12 @@ A web application that uses Retrieval Augmented Generation (RAG) to check GDPR c
 
 <img width="1916" height="959" alt="image" src="https://github.com/user-attachments/assets/d3b0d7c3-65c9-4f4d-84a9-d0820855239a" />
 
+<img width="1917" height="949" alt="Screenshot 2025-08-31 at 15 17 08" src="https://github.com/user-attachments/assets/844f480e-6775-4ced-b685-ae6573a22edb" />
+
+<img width="1899" height="788" alt="Screenshot 2025-08-31 at 15 17 41" src="https://github.com/user-attachments/assets/c3440aed-5c53-4bda-a05b-2f32a17631c9" />
+
+
+
 
 
 
