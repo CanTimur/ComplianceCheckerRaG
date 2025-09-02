@@ -2,6 +2,17 @@
 
 A web application that uses Retrieval Augmented Generation (RAG) to check GDPR compliance of documents and policies using the IO Intelligence API.
 
+## Overview
+<img width="1918" height="925" alt="Screenshot 2025-08-31 at 15 17 50" src="https://github.com/user-attachments/assets/d56a2bf8-beb9-4423-9905-3fc78cd9b835" />
+
+<img width="1920" height="494" alt="Screenshot 2025-08-31 at 15 18 04" src="https://github.com/user-attachments/assets/f3928f77-c634-4483-b3b9-4dfb65807d69" />
+
+<img width="1916" height="959" alt="image" src="https://github.com/user-attachments/assets/d3b0d7c3-65c9-4f4d-84a9-d0820855239a" />
+
+
+
+
+
 ## Features
 
 - 📄 Document upload and analysis
